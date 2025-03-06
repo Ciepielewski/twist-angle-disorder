@@ -1,0 +1,5 @@
+Set of parameters used to generate the ensembles used in the paper.  
+
+n_domains --> 3 n_gauss --> 23 Sigma --> 5.0 Contour level --> 0.09
+n_domains --> 5 n_gauss --> 26 Sigma --> 2.0 Contour level --> 0.01
+n_domains --> 7 n_gauss --> 40 Sigma --> 2.0 Contour level --> 0.05
