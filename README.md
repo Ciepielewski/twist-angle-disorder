@@ -1,5 +1,5 @@
 ![PythonVersion](https://img.shields.io/badge/python-3.8-succes)
-[![License https://github.com/trainindata/feature-engineering-for-time-series-forecasting/blob/master/LICENSE](https://img.shields.io/badge/license-BSD-success.svg)](https://github.com/trainindata/feature-engineering-for-time-series-forecasting/blob/master/LICENSE)
+![License https://github.com/trainindata/feature-engineering-for-time-series-forecasting/blob/master/LICENSE](https://img.shields.io/badge/license-BSD-success.svg)
 
 # Quantum transport simulations of twisted bilayer graphene for the study of twist angle disorder
 
